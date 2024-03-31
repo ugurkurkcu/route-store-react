@@ -6,5 +6,5 @@
 
 <p>React-CSS-JavaScript kullanıldı. </br> Responsive yapı kullanıldı</p>
 
-![](assets/gif/screen-1.gif)
+![](src/assets/gif/screen-1.gif)
 # route-store-react
